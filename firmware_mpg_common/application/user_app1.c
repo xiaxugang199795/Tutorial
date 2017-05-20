@@ -113,7 +113,7 @@ Promises:
 */
 void UserApp1RunActiveState(void)
 {
-  UserApp1_StateMachine();
+  UserApp1_StateMachine();/**/
 
 } /* end UserApp1RunActiveState */
 
